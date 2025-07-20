@@ -6,15 +6,14 @@ using System.Windows.Input;
 namespace ProjektTimeseddel.ViewModels
 {
     /* TO DO:
-     *  - Automatisk kolon i tidspunkter + begrænsninger for input
-     *  - Navigation med tastatur
+     *  - Automatisk kolon i tidspunkter + begrænsninger for input (validation)
+     *  - Bedre navigation med tastatur
      * Bonus features:
      *  - Slet-knap til arbejdsdag
      *  - Rediger-knap ved hver arbejdsdag (låser alt på nær dagens tidspunkter og "Udregn dag")
      *  - Clear-knap til at starte forfra
      *  - "Sygetimer"-kolonne
-     *  - Synlig scrollbar
-     * Få et AI code review
+     *  - Synlig scrollbar?
      */
 
     /* SPØRGSMÅL:
